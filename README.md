@@ -9,14 +9,14 @@
 </ui>
 <h3>Results:</h3>
 <ui>
-<li>Baseline Model (All Features): Achieved an accuracy of 73.15% with a training time of 0.15 seconds.</li>
-<li>Reduced Model (K-Means): Enhanced accuracy to 78.59% with a significantly reduced training time of 0.01 seconds.</li>
+<li>Baseline Model (All Features): Achieved an accuracy of 75.87% with a training time of 0.0401 seconds.</li>
+<li>Reduced Model (K-Means): Enhanced accuracy to 87.7% with a significantly reduced training time of 0.0089 seconds.</li>
 <li>Efficiency: Reduced the number of features from 561 to 50, improving model interpretability and computational efficiency.</li>
 </ui>
 <h3>Key Achievements</h3>
 <ui>
-<li>Increased Accuracy: Achieved a 7.44% improvement in model accuracy through effective feature selection using k-means clustering.</li>
-<li>Enhanced Efficiency: Reduced training time by approximately 92%, significantly boosting computational efficiency.</li>
+<li>Increased Accuracy: Achieved a 15.6% improvement in model accuracy through effective feature selection using k-means clustering.</li>
+<li>Enhanced Efficiency: Reduced training time by approximately 78%, significantly boosting computational efficiency.</li>
 <li>Feature Reduction: Streamlined the feature set from 561 to 50, leveraging k-means clustering to maintain essential information and discard redundancy.</li>
 <li>Activity Recognition: Utilized the reduced feature set to build robust models for Human Activity Recognition using smartphone sensor data.</li>
 </ui>
