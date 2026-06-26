@@ -27,6 +27,6 @@
 <p>30 subjects · Samsung Galaxy S2 · waist-mounted</p>
 <p>7,352 training samples · 561 features · 6 activity classes</p>
 <img width="1660" height="558" alt="Screenshot 2026-06-26 135656" src="https://github.com/user-attachments/assets/af8a15d1-f2d8-4774-a752-e383dfe8388f" />
-<img width="500" height="500" alt="Screenshot 2026-06-26 135637" src="https://github.com/user-attachments/assets/7d275783-bcac-489d-9a63-e2d2f9d905ff" />
-<img width="500" height="500" alt="Screenshot 2026-06-26 135557" src="https://github.com/user-attachments/assets/f1c71705-897f-402d-8000-1678922817e5" />
+<img width="400" height="400" alt="Screenshot 2026-06-26 135637" src="https://github.com/user-attachments/assets/7d275783-bcac-489d-9a63-e2d2f9d905ff" />
+<img width="400" height="400" alt="Screenshot 2026-06-26 135557" src="https://github.com/user-attachments/assets/f1c71705-897f-402d-8000-1678922817e5" />
 
